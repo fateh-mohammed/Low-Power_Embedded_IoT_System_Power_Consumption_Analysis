@@ -53,15 +53,6 @@ The measured wake-up time from sleep mode was:
 The measurements were performed with a **12 V supply**. The measurements show significantly higher current consumption during Wi-Fi-related operation compared with normal processing. The oscilloscope voltage profiles across the shunt resistor were used to characterize the current behavior during changes between operating modes.
 
 
-## 📁 Repository Structure
-
-Low-Power_Embedded_IoT_System_Power_Consumption_Analysis/
-│
-├── src/
-├── images/
-│   └── voltage_profile_wifi.png
-└── README.md
-
 
 ## 🛠️ Tools & Technologies
 
