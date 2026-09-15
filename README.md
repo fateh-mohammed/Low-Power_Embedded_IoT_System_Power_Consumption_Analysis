@@ -68,7 +68,7 @@ Low-Power_Embedded_IoT_System_Power_Consumption_Analysis/
 │   └── ...
 │
 └── images/
-    ├── wifi_voltage_profile.png
+    ├── voltage_profile_wifi.png
 ```
 
 ## 🛠️ Tools & Technologies
