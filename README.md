@@ -54,17 +54,6 @@ The measurements were performed with a **12 V supply**. The measurements show si
 
 
 
-## 🛠️ Tools & Technologies
-
-* Arduino Nano RP2040 Connect
-* RP2040
-* MicroPython
-* Wi-Fi
-* Oscilloscope
-* DC power supply
-* Current and power measurement
-* Experimental data analysis
-
 ## 🎯 Key Learning
 
 This project provided practical experience in **embedded system development, low-power analysis, oscilloscope-based measurements, and experimental evaluation of power consumption**.
