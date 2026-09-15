@@ -55,21 +55,13 @@ The measurements were performed with a **12 V supply**. The measurements show si
 
 ## 📁 Repository Structure
 
-```text
 Low-Power_Embedded_IoT_System_Power_Consumption_Analysis/
 │
-├── README.md
-├── reports/
-│   ├── Report_1_PowerCurve.pdf
-│   ├── Report_2_CurrentModes.pdf
-│   └── Report_3_WakeupTime.pdf
-│
-├── code/
-│   └── ...
-│
-└── images/
-    ├── voltage_profile_wifi.png
-```
+├── src/
+├── images/
+│   └── voltage_profile_wifi.png
+└── README.md
+
 
 ## 🛠️ Tools & Technologies
 
